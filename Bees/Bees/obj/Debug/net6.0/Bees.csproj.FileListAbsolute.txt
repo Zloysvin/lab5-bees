@@ -1,0 +1,15 @@
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\bin\Debug\net6.0\Bees.exe
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\bin\Debug\net6.0\Bees.deps.json
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\bin\Debug\net6.0\Bees.runtimeconfig.json
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\bin\Debug\net6.0\Bees.dll
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\bin\Debug\net6.0\Bees.pdb
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.csproj.AssemblyReference.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.AssemblyInfoInputs.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.AssemblyInfo.cs
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.csproj.CoreCompileInputs.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.dll
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\refint\Bees.dll
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.pdb
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\Bees.genruntimeconfig.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\lab5-bees\Bees\Bees\obj\Debug\net6.0\ref\Bees.dll
